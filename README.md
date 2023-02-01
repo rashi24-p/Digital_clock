@@ -29,7 +29,7 @@ You can refer to the following articles on **_basics of Git and Github and you c
 
 While on one hand our repository is a good place for beginners to contribute something useful to open source, on the other hand it is also a good place for experienced people to contribute something useful to open source. We welcome contributions from everyone.
 However some people tend to spam the repository with irrelevant pull requests and get one PR for SWoC 3.0 and other such open source events. We do not want that to happen. So we have a few guidelines that we would like you to follow.
-In case we find your PR not relevant or spam, we will mark it as invalid .
+In case we find your PR not relevant or spam, we will mark it as invalid .you have to go on mark .this is priyanka kashyap.
 
 
 
