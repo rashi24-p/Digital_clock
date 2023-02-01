@@ -1,5 +1,5 @@
 # Digital_clock
-This is a contributive project, if  you want to make some changes  into it, just  create  pull request and add screenshots in a comment section , and be a contributor.
+This is a contributive project, if  you want to make some changes  into it, just  create  pull request and add screenshots in a comment section , and be a contributor..
 
 ______________________________________________________________________________________________________________
 
