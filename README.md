@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 <h2 align=center> 👨🏻‍💻 How to get started? </h2> 
 
-You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
+You can refer to the following articles on **_basics of Git and Github and you can also drop a comment in comment section, in case you are stuck_**:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
