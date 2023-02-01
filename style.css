@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(  rgb(123, 255, 0),rgb(220, 220, 55));
+    margin: 0px;
+    
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+    
+  }
+  
+  h2{
+    color: rgb(176, 29, 132);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px maroon;
+    
+  }
+  h2:hover{
+    opacity: .8;
+    color: rgb(110, 42, 165);
+    text-decoration: double;
+    text-shadow: 2px 2px 4px blue;
+  }
+  .clock{
+    display: flex;
+  
+  }
+  .clock div{
+    margin: 5px;
+  }
+  .clock span{
+    height: 80px;
+    width: 90px;
+    color: aliceblue;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    text-shadow: 4px 2px 2px gray;
+    opacity: .8  ;
+    border-radius: 5px ;
+    box-shadow: 2px 4px 1px rgb(21, 6, 31);
+  }
+  .clock span:hover{
+    border: none;
+    box-shadow: 4px 6px 10px purple;
+    
+  }
+  .clock .text{
+    height: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgb(158, 113, 182);
+    opacity: .9;
+    text-shadow: 2px 3px 4px rgb(43, 43, 124);
+  }
+  .clock #ampm{
+    bottom:-80px;
+    position: relative;
+    width:60px;
+    height: 30px;
+    background: rgb(55, 145, 181);
+    text-transform: uppercase;
+    
+  }
